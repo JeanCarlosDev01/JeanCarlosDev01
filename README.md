@@ -80,7 +80,7 @@ para contribuir al éxito de proyectos tecnológicos.
 
 <li>
 <a href="https://profile.indeed.com/p/jeancarloso-3g1pcj6" target="_blank">
-<img src="https://img.shields.io/badge/indeed:  Jean%20Carlos%20Ordoñez-%23FFFFFF.svg?color=405DE6&style=for-the-badge&logo=indeed&logoColor=blue" alt=indeed style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/indeed:  Jean%20Carlos%20Ordoñez-%23FFFFFF.svg?color=FFFFFF&style=for-the-badge&logo=indeed&logoColor=blue" alt=indeed style="margin-bottom: 5px;"/>
 </a>
 </li>
 
