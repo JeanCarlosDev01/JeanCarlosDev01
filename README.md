@@ -8,8 +8,6 @@
 <br>
 
 
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs2YmF3d2h6OWJjNTNyZGNkZWo5amo0cmlmaTF0bWdmbXlyZ3BxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
