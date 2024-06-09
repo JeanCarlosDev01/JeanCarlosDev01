@@ -79,8 +79,8 @@ para contribuir al éxito de proyectos tecnológicos.
 <ul>
 
 <li>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Jean%20Carlos%20Ordoñez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://profile.indeed.com/p/jeancarloso-3g1pcj6" target="_blank">
+<img src="https://img.shields.io/badge/indeed:  Jean%20Carlos%20Ordoñez-%23FFFFFF.svg?color=405DE6&style=for-the-badge&logo=indeed&logoColor=blue" alt=indeed style="margin-bottom: 5px;"/>
 </a>
 </li>
 
