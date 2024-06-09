@@ -79,7 +79,7 @@ para contribuir al éxito de proyectos tecnológicos.
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/jean-carlos-ord%C3%B3%C3%B1ez-a386bb267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jean%20Carlos%20Ordoñez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -87,7 +87,7 @@ para contribuir al éxito de proyectos tecnológicos.
 <br>
 
 <li>
-<a href="mjeancarlosordonez.sena@gmail.com" target="_blank">
+<a href="jeancarlosordonez.sena@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jeancarlosordonez.sena@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
