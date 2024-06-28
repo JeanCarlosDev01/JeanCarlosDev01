@@ -71,7 +71,7 @@ para contribuir al éxito de proyectos tecnológicos.
 <br>
 <div align='left'>
 
-<ul>
+<ul style='list-style: none;'>
 
 <li>
 <a href="https://profile.indeed.com/p/jeancarloso-3g1pcj6" target="_blank">
