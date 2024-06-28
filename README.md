@@ -82,7 +82,7 @@ para contribuir al éxito de proyectos tecnológicos.
 <br>
 
 <li>
-<img src="https://img.shields.io/badge/gmail:  jeancarlosordonez.sena@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  jcarlos.ordonez01@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </li>
 	
 </ul>
