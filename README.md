@@ -8,7 +8,7 @@
 <br>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## 🧑‍💻 **Sobre mí**
 
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs2YmF3d2h6OWJjNTNyZGNkZWo5amo0cmlmaTF0bWdmbXlyZ3BxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
@@ -29,7 +29,6 @@ para contribuir al éxito de proyectos tecnológicos.
 
 - **Lenguajes**:
   
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -67,7 +66,7 @@ para contribuir al éxito de proyectos tecnológicos.
 <br>
 <br>
 
-## <b> Información de Contacto </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b>📩 Información de Contacto </b>
 <br>
 <div align='left'>
 
