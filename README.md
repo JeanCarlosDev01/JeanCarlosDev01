@@ -23,15 +23,14 @@ para contribuir al éxito de proyectos tecnológicos.
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
-<br>
 
-<p align="center">
 
-- **Lenguajes**:
+
+- **Desarrollo Back-End**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
+    ![django](https://img.shields.io/badge/django-%230C4B33.svg?style=for-the-badge&logo=django&color=0C4B33)
+    <br>
     
 - **Desarrollo Front-End**:
 
@@ -78,12 +77,16 @@ para contribuir al éxito de proyectos tecnológicos.
 </a>
 </li>
 
-<br>
+<li>
+<a href="www.linkedin.com/in/jean-carlos-ordóñez-0a4680328" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Jean Carlos Ordoñez-0078d7.svg?style=for-the-badge&logo=linkedin&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>	
 
 <li>
 <img src="https://img.shields.io/badge/gmail:  jcarlos.ordonez01@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </li>
-	
+
 </ul>
 </div>
 
