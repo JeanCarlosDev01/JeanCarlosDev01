@@ -12,13 +12,12 @@
 
 <br>
 
-<p style="font-size: 2rem;">
 Soy recién egresado del programa de Análisis y Desarrollo de Software del SENA, 
 cuento con formación en programación, desarrollo de aplicaciones y análisis de sistemas. 
 Poseo habilidades en resolución de problemas, trabajo en equipo y adaptación a nuevas tecnologías, 
 y estoy motivado para aplicar mis conocimientos y habilidades en un entorno profesional 
 para contribuir al éxito de proyectos tecnológicos.
-</p>
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
@@ -55,6 +54,7 @@ para contribuir al éxito de proyectos tecnológicos.
 
 </p>
 
+<br>
 
 ## <b>📩 Información de Contacto </b>
 <br>
