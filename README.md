@@ -14,7 +14,7 @@
 
 <br>
 
-<p style='font-size: 1.2rem;'>
+<p style="font-size: 2rem;">
 Soy recién egresado del programa de Análisis y Desarrollo de Software del SENA, 
 cuento con formación en programación, desarrollo de aplicaciones y análisis de sistemas. 
 Poseo habilidades en resolución de problemas, trabajo en equipo y adaptación a nuevas tecnologías, 
