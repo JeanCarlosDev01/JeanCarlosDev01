@@ -69,7 +69,7 @@ para contribuir al éxito de proyectos tecnológicos.
 </li>
 
 <li>
-<a href="www.linkedin.com/in/jean-carlos-ordóñez-0a4680328" target="_blank">
+<a href="https://www.linkedin.com/in/jean-carlos-ord%C3%B3%C3%B1ez-0a4680328" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jean Carlos Ordoñez-0078d7.svg?style=for-the-badge&logo=linkedin&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>	
