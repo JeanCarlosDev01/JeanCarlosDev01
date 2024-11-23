@@ -38,7 +38,6 @@ para contribuir al éxito de proyectos tecnológicos.
 - **Bases de Datos**:
 
     ![MySQL](https://img.shields.io/badge/MySQL%20-%23E48E00.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2300684A.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Alojamiento en la nube**:
 
